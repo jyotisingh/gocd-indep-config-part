@@ -5,7 +5,7 @@
     <pipeline name="pipe1" isLocked="false">
       <materials>
 	<!-- material repo is the same as partial config repo  -->
-        <git url="https://github.com/tomzo/gocd-indep-config-part.git" />
+        <git url="https://github.com/tomzo/gocd-indep-config-part.git" branch="test1" />
       </materials>
       <stage name="test">
         <jobs>
