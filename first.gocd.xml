@@ -16,6 +16,15 @@
           </job>
         </jobs>
       </stage>
+      <stage name="test2">
+        <jobs>
+          <job name="test2">
+            <tasks>
+              <rake />
+            </tasks>
+          </job>
+        </jobs>
+      </stage>
     </pipeline>
     <pipeline name="pipe2" isLocked="false">
       <materials>
