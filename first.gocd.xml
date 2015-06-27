@@ -14,6 +14,11 @@
               <rake />
             </tasks>
           </job>
+	  <job name="test7">
+            <tasks>
+              <rake />
+            </tasks>
+          </job>
         </jobs>
       </stage>
       <stage name="test2">
