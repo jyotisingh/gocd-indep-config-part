@@ -5,6 +5,10 @@
       <pipelines>
         <pipeline name="pipe1" />
       </pipelines>
+      <environmentvariables>
+        <variable name="remote">
+          <value>variable</value>
+        </variable>
     </environment>
   </environments>
 </cruise>
