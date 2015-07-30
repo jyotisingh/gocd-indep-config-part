@@ -9,6 +9,7 @@
         <variable name="remote">
           <value>variable</value>
         </variable>
+      </environmentvariables>
     </environment>
   </environments>
 </cruise>
